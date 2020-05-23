@@ -1,2 +1,2 @@
 # TestProject
-Learning ReactJS project
+Learning Angular project
